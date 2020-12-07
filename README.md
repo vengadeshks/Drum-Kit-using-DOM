@@ -1,5 +1,5 @@
 # Drum-Kit-using-Dom-
-<p> This is the simple Drum Kit Website to demonstrate the DOM to Access the HTML Elements </p>
+<p> This is the simple Drum Kit Website to demonstrate the DOM Accessig to the HTML Elements </p>
 
 ### Simple DOM Code to Understand the basic level
 
